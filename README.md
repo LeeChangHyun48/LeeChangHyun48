@@ -5,3 +5,15 @@
 </div>
 
 * **SSAFY 7기** - 2022.01.05 ~ 진행 중
+## 진행한 프로젝트
+<details>
+  <summary>해피 하우스</summary>
+</details>
+
+<details>
+  <summary>TT</summary>
+</details>
+
+<details>
+  <summary>위기탈출 101</summary>
+</details>
