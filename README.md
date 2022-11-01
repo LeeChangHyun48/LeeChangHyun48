@@ -17,3 +17,7 @@
 <details>
   <summary>위기탈출 101</summary>
 </details>
+
+<details>
+  <summary>Folaroid</summary>
+</details>
