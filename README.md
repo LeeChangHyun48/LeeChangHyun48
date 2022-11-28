@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LeeChangHyun&fontSize=90&fontColor=d195ff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LeeChangHyun&fontSize=90&fontColor=CFFFE5)
 
 # Tech Stack
 <img src="https://img.shields.io/badge/Java-red?style=plastic&logo=Java&logoColor=white"/></a>
