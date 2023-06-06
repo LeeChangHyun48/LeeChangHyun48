@@ -15,6 +15,10 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mattermost-0058CC?style=plastic&logo=Mattermost&logoColor=white"/></a>
 
+# Experience
+#### 2022.01 ~ 2022.12 Samsung Software Academy For Youth(SSAFY) 7기
+* 2022.10.07 SSAFY 7기 특화프로젝트 우수상
+
 # Baekjoon Record 👋  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rover48)](https://solved.ac/rover48/)
